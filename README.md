@@ -6,6 +6,8 @@
 ░▀▀▀░▀▀▀░░▀░░▀▀▀░▀▀▀░░░▀░▀░▀▀▀░░▀░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░░▀░
 ```
 
+Too many secrets... 😎
+
 Keep your API keys in [Keeper](https://www.keepersecurity.com/) and have them show up as ordinary environment variables in every zsh shell. Nothing secret is written to your dotfiles, and opening a shell never waits on Keeper.
 
 ```
